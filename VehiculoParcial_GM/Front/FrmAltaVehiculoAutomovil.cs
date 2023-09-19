@@ -90,5 +90,10 @@ namespace Front
             MessageBox.Show("Vehiculo Automovil modificado con exito.");
 
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
